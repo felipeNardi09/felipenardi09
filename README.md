@@ -4,4 +4,4 @@
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,html,css,ts,mongodb,postgres,git,github)](https://skillicons.dev)
 
-![Felipe's stats](https://github-readme-stats.vercel.app/api?username=felipenardi09&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenardi09&size_weight=0.5&count_weight=0.5)
